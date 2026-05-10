@@ -65,7 +65,7 @@ npm run dev
 
 ## 📸 Screenshots
 
-*(You can add your project screenshots here later by dragging and dropping them into this README file on GitHub)*
+*(https://i.postimg.cc/m29PBQnY/Screenshot-2.png)*
 
 <br />
 
